@@ -23,3 +23,10 @@ lot of storage to pre-compute lots of hashes and look them up
 quickly is called "Rainbow Tables".  This tiny application
 is *not* using a Rainbow Table approach.
 
+Website View:
+
+![image](https://user-images.githubusercontent.com/64192420/110159361-cedd7e00-7e14-11eb-939c-b5cc75bdde6c.png)
+
+Makecode:
+![image](https://user-images.githubusercontent.com/64192420/110159438-e7e62f00-7e14-11eb-8190-347daee3f05d.png)
+
